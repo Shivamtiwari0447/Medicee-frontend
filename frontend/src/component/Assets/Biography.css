@@ -1,0 +1,27 @@
+
+
+.biography{
+
+    display: flex;
+    justify-content: space-around;
+    padding-top: 80px;
+    align-items: center;
+
+
+}
+
+
+
+
+#doctors{
+
+    width: 500px;
+}
+
+.bio_data{
+
+    display: flex;
+
+    flex-direction: column;
+    width: 40%;
+}

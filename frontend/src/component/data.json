@@ -1,0 +1,110 @@
+[
+    {
+      "region": "India",
+      "country_code": "in",
+      "url": "google.co.in",
+      "states": [
+        {
+          "sname": "Uttar Pradesh",
+          "scode": "up",
+          "city": [
+            {
+              "cname": "Allahabad",
+              "ccode": "alld",
+              "hospital": [
+                {
+                  "hname":"Jeevan Jyoti",
+                  "hcode":"je"
+                },
+                {
+                  "hname":"Swasthya Kendra",
+                  "hcode":"swa"
+                },
+                {
+                  "hname":"Akshaywat Hospital",
+                  "hcode":"aks"
+                }
+              ]
+            },
+            {
+              "cname": "Gajipur",
+              "ccode": "ga"
+            },
+            {
+              "cname": "Banaras",
+              "ccode": "ba"
+            },
+            {
+              "cname": "Mirzapur",
+              "ccode": "mir"
+            }
+          ]
+        },
+        {
+          "sname": "Bihar",
+          "scode": "bi",
+          "city": [
+            {
+              "cname": "Moradabad",
+              "ccode": "mo"
+            },
+            {
+              "cname": "Patna",
+              "ccode": "pa"
+            }
+          ]
+        },
+        {
+          "sname": "Himachal Pradesh",
+          "scode": "hp",
+          "city": [
+            {
+              "cname": "Manali",
+              "ccode": "ma"
+            },
+            {
+              "cname": "Kullu",
+              "ccode": "ku"
+            }
+          ]
+        },
+        {
+          "sname": "Madhya Pradesh",
+          "scode": "mp",
+          "city": [
+            {
+              "cname": "Indore",
+              "ccode": "in"
+            },
+            {
+              "cname": "Bhopal",
+              "ccode": "bh"
+            },
+            {
+              "cname": "Reeva",
+              "ccode": "re"
+            },
+            {
+              "cname": "Satna",
+              "ccode": "sat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "region": "United Arab Emirates",
+      "country_code": "ae",
+      "url": "google.ae",
+      "languages": [
+        {
+          "name": "Arabic",
+          "code": "ar"
+        },
+        {
+          "name": "English",
+          "code": "en"
+        }
+      ]
+    }
+  ]

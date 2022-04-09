@@ -1,0 +1,23 @@
+.degree{
+
+    display: grid;
+
+grid-template-columns: repeat(4,140px);
+grid-template-rows: 1fr 1fr 1fr 1fr;
+justify-content: center;
+gap: 40px;
+}
+
+
+
+
+.doctors_page h1{
+
+    padding: 80px;
+}
+
+
+.random{
+
+    border-radius: 50%;
+}

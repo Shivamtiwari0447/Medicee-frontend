@@ -5,7 +5,7 @@ const reportWebVitals = (onPerfEntry: ReportHandler | undefined) => {
     import('web-vitals').then(({ getCLS, getFID, getFCP, getLCP, getTTFB }) => {
       getCLS(onPerfEntry);
       getFID(onPerfEntry);
-      getFCP(onPerfEntry);
+      // getFCP(onPerfEntry);
       getLCP(onPerfEntry);
       getTTFB(onPerfEntry);
     });
